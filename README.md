@@ -5,5 +5,22 @@
 
 [老師本案課程github](https://github.com/roberthsu2003/__112_python_flask__)
 
-
 [上課時連結](https://meet.google.com/ghs-xzys-oaj)
+
+# github 常用指令
+1. 強制上傳：git push -f
+
+# 使用的延伸模組跟套件
+[套件]
+1. requests
+2. pandas
+3. openpyxl
+4. streamlit
+
+[延伸模組]
+1. Excel Viewer
+
+# desktop需安裝
+1. python
+2. github desktop
+3. vscode
