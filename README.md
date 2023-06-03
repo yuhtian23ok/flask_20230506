@@ -24,3 +24,5 @@
 1. python
 2. github desktop
 3. vscode
+
+# 互動式網頁指令：streamlit run 檔案名.py
